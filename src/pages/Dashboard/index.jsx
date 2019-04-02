@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import { getRepos } from '../../store/Actions/Lanes';
 
 // App.js
-export class App extends Component {
+class App extends Component {
   state = { username: 'tylerbuchea' };
 
   componentDidMount() {
