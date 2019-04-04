@@ -6,9 +6,6 @@ import LaneTabsCount from './LaneTabsCount';
 
 
 const styles = theme => ({
-  root: {
-    // height: '100%',
-  },
   tabRoot: {
     minWidth: 'auto',
   },
@@ -32,32 +29,13 @@ class LaneTabs extends React.PureComponent {
     this.setState({ tabValue });
   };
 
-  filterLanes = (laneList, key) => {
-    if (!laneList) {
-      return [];
-    }
-    switch (key) {
-      case 'isOutbid':
-        return laneList.filter(laneItem => laneItem.isOutbid);
-      case 'isWatching':
-        return laneList.filter(laneItem => ((laneItem.isWatching) || (laneItem.itemsWatching && laneItem.itemsWatching > 0)));
-      case 'isWinning':
-        return laneList.filter(laneItem => laneItem.isWinning);
-      default:
-        return laneList;
-    }
-  };
 
   render() {
     const { tabValue } = this.state;
-    const { classes, lanes: { laneList } } = this.props;
-
-    const outbidLanes = this.filterLanes(laneList, 'isOutbid');
-    const isWatchingLanes = this.filterLanes(laneList, 'isWatching');
-    const isWinningLanes = this.filterLanes(laneList, 'isWinning');
+    const { classes, lanes: { laneList, outbidLanes, isWatchingLanes, isWinningLanes } } = this.props;
 
     return (
-      <div className={classes.root}>
+      <div>
         <Tabs
           value={tabValue}
           onChange={this.handleChange}
@@ -87,7 +65,7 @@ class LaneTabs extends React.PureComponent {
           onChangeIndex={this.handleChangeIndex}
         >
           <div>
-            {laneList && laneList.length > 0 && laneList.map(laneItem =>
+            {laneList.map(laneItem =>
               <LaneSection laneItem={laneItem} key={laneItem.lane} />)}
           </div>
           <div>

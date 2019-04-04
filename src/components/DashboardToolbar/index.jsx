@@ -18,7 +18,6 @@ const styles = theme => ({
   },
   tabRoot: {
     textTransform: 'initial',
-    // minWidth: 65,
     fontFamily: 'ProximaNova Regular',
     fontSize: '13px',
     color: theme.typography.h6.color,
