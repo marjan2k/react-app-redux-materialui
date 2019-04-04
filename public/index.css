@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'GothamRounded Bold';
+    src: local('GothamRounded Bold'), url(fonts/GothamRounded-Bold.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'ProximaNova Bold';
+    src: local('ProximaNova Bold'), url(fonts/ProximaNova-Bold.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'ProximaNova Regular';
+    src: local('ProximaNova Regular'), url(fonts/ProximaNova-Regular.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'ProximaNova Semibold';
+    src: local('ProximaNova Semibold'), url(fonts/ProximaNova-Semibold.otf) format('opentype');
+}
+
+#root, #root > div {
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}

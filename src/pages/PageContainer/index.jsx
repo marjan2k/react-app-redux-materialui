@@ -1,10 +1,13 @@
 import React from 'react';
-import withRoot from '../../withRoot';
+import Header from '../../components/Header';
 import Dashboard from '../Dashboard';
 
 
 const PageContainer = () => (
-  <Dashboard/>
+  <div>
+    <Header />
+    <Dashboard />
+  </div>
 );
 
-export default withRoot(PageContainer);
+export default PageContainer;

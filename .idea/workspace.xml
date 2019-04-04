@@ -2,12 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="038d55c1-bccf-4b86-be84-42b75a280ffe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/themes/eBlock/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/png/eblockLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/png/eblockLogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DashboardToolbar/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DashboardToolbar/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/ActionItem/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/ActionItem/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LaneContent/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LaneContent/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LaneList/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LaneList/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LaneSection/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LaneSection/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LaneTabs/LaneTabsCount/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LaneTabs/LaneTabsCount/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LaneTabs/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LaneTabs/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SearchInput/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchInput/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Dashboard/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Dashboard/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/withRoot.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/withRoot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/PageContainer/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PageContainer/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/Actions/Lanes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/Actions/Lanes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/Reducers/Lanes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/Reducers/Lanes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/RootStore/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/RootStore/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/index.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state relative-caret-position="397">
+              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -29,11 +48,82 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/withRoot.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/LaneContent/index.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="282">
-              <caret line="38" column="27" lean-forward="true" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/png/skeletonAuction.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/LaneTabs/LaneTabsCount/index.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="37" column="16" selection-end-line="48" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="69">
+                <caret line="3" selection-start-line="3" selection-end-line="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/LaneSection/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-638">
+              <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -42,56 +132,51 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/PageContainer/index.jsx">
+        <entry file="file://$PROJECT_DIR$/src/themes/eBlock/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/services/api/getAdviceSlip/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/store/Actions/Lanes/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/store/Reducers/Repos/index.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            <state>
+              <caret column="24" selection-start-column="13" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>roboto</find>
+      <find>value</find>
+      <find>color</find>
+      <find>tabsRoot</find>
+      <find>typogra</find>
+      <find>tabSelected</find>
+      <find>ADD_REPOS</find>
+      <find>createre</find>
+      <find>middle</find>
+      <find>repos</find>
+      <find>arrow</find>
+      <find>loadingLanes</find>
+      <find>useTheme</find>
+      <find>dir</find>
+      <find>width</find>
+      <find>root</find>
+      <find>classes.con</find>
+      <find>Proxima</find>
+      <find>&lt;LaneTabs</find>
+      <find>border</find>
+      <find>content:</find>
+      <find>&lt;AppBar</find>
+      <find>&lt;Sear</find>
+      <find>LaneSecti</find>
+      <find>Winning</find>
+      <find>classNames(</find>
+      <find>LaneContent</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ADD_LANES</replace>
+      <replace>fetchingLanes</replace>
+      <replace>tabs</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -100,12 +185,33 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/components/InfoCard/index.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/PageContainer/index.jsx" />
         <option value="$PROJECT_DIR$/src/services/api/getAdviceSlip/index.js" />
-        <option value="$PROJECT_DIR$/src/store/Actions/Lanes/index.js" />
-        <option value="$PROJECT_DIR$/src/pages/Dashboard/index.jsx" />
-        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/withRoot.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/components/Header/ActionItem/index.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/PageContainer/index.jsx" />
+        <option value="$PROJECT_DIR$/public/index.css" />
+        <option value="$PROJECT_DIR$/src/store/ActionTypes/Lanes/index.ts" />
+        <option value="$PROJECT_DIR$/src/store/Reducers/Repos/index.js" />
+        <option value="$PROJECT_DIR$/src/store/RootStore/index.js" />
+        <option value="$PROJECT_DIR$/src/store/Actions/Lanes/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Search/index.jsx" />
+        <option value="$PROJECT_DIR$/src/store/Reducers/Lanes/index.js" />
+        <option value="$PROJECT_DIR$/src/components/LaneList/index.jsx" />
+        <option value="$PROJECT_DIR$/src/components/DashboardToolbar/index.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Header/index.jsx" />
+        <option value="$PROJECT_DIR$/src/components/SearchInput/index.jsx" />
+        <option value="$PROJECT_DIR$/src/components/LaneSection/index.js" />
+        <option value="$PROJECT_DIR$/src/components/LaneTabs/index.jsx" />
+        <option value="$PROJECT_DIR$/src/components/LaneTabs/LaneTabsCount/index.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Dashboard/index.jsx" />
+        <option value="$PROJECT_DIR$/src/components/LaneContent/index.jsx" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/themes/eBlock/index.js" />
+        <option value="$PROJECT_DIR$/src/app.js" />
       </list>
     </option>
   </component>
@@ -131,108 +237,18 @@
               <item name="create-react-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="create-react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-react-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-react-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="png" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-react-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-react-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="Dashboard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-react-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="PageContainer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-react-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-react-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-react-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="getAdviceSlip" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-react-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-react-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-              <item name="Actions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-react-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-              <item name="Actions" type="462c0819:PsiDirectoryNode" />
-              <item name="Lanes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-react-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-              <item name="Reducers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-react-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-              <item name="Reducers" type="462c0819:PsiDirectoryNode" />
-              <item name="Repos" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554242120368" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554341589483" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -241,7 +257,14 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marja\create-new\create-react-app\src\assets\svg" />
+      <recent name="C:\Users\marja\create-new\create-react-app\public" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marja\create-new\create-react-app\src\assets\png" />
+      <recent name="C:\Users\marja\create-new\create-react-app\src\assets\svg" />
+      <recent name="C:\Users\marja\create-new\create-react-app\src\assets\fonts" />
       <recent name="C:\Users\marja\create-new\create-react-app\src" />
     </key>
   </component>
@@ -286,17 +309,18 @@
       <updated>1554237851661</updated>
       <workItem from="1554237853364" duration="305000" />
       <workItem from="1554242016055" duration="104000" />
+      <workItem from="1554290492581" duration="31142000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="409000" />
+    <option name="totallyTimeSpent" value="31551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -316,7 +340,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3291536" />
-      <window_info anchor="bottom" id="Run" order="12" visible="true" weight="0.3291536" />
+      <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.38035527" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -338,6 +362,7 @@
     <entry file="file://$PROJECT_DIR$/src/services/api/getNumberFact/interface/IAPIHelperNumberFact/index.ts" />
     <entry file="file://$PROJECT_DIR$/src/store/RootStoreMobx/interface/IStore/index.ts" />
     <entry file="file://$PROJECT_DIR$/src/store/RootStoreMobx/index.ts" />
+    <entry file="file://$PROJECT_DIR$/src/pages/index.js" />
     <entry file="file://$PROJECT_DIR$/src/services/api/getAdviceSlip/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -345,61 +370,293 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/Reducers/Repos/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/Actions/Lanes/index.js">
+    <entry file="file://$PROJECT_DIR$/src/withRoot.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        <state relative-caret-position="690">
+          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/fonts/GothamRounded-Bold.otf">
+      <provider selected="true" editor-type-id="fontseditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/svg/eblockLogo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/svg/buyIcon.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/AppBar/AppBar.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/svg/notificationIcon.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/lib/react-app.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/svg/finishedIcon.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/Toolbar/Toolbar.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/es/styles/createTypography.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2738">
+          <caret line="164" column="4" selection-start-line="164" selection-start-column="4" selection-end-line="164" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/ActionTypes/Lanes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/RootStore/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/ActionItem/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/Actions/Lanes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/styles/withStyles.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="56" column="2" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/SvgIcon/SvgIcon.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/PageContainer/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        <state relative-caret-position="184">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-swipeable-views/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/LaneList/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/Reducers/Lanes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/Divider/Divider.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SearchInput/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/DashboardToolbar/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1466">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/LaneTabs/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="71" column="87" selection-start-line="71" selection-start-column="87" selection-end-line="71" selection-end-column="87" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/LaneTabs/LaneTabsCount/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="37" column="16" selection-end-line="48" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/LaneSection/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-638">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        <state relative-caret-position="397">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/withRoot.js">
+    <entry file="file://$PROJECT_DIR$/src/assets/png/skeletonAuction.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/styles/transitions.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/LaneContent/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
-          <caret line="38" column="27" lean-forward="true" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="69">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/themes/eBlock/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>

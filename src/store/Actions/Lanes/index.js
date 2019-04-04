@@ -1,20 +1,32 @@
-export const addRepos = repos => ({
-  type: 'ADD_REPOS',
-  repos,
+import mockResponse from './mockResponse.json';
+import { ADD_LANES, CLEAR_LANES, LOADING_LANES } from "../../ActionTypes/Lanes";
+
+export const addLanes = laneList => ({
+  type: ADD_LANES,
+  laneList,
 });
 
-export const clearRepos = () => ({
-  type: 'CLEAR_REPOS',
+export const clearLanes = () => ({
+  type: CLEAR_LANES,
 });
 
-export const getRepos = username => async dispatch => {
+export const fetchingLanes = fetchingLanes => ({
+  type: LOADING_LANES,
+  fetchingLanes,
+});
+
+export const getLanes = () => async dispatch => {
   try {
-    const url = `https://api.github.com/users/${username}/repos?sort=updated`;
-    const response = await fetch(url);
-    const responseBody = await response.json();
-    dispatch(addRepos(responseBody));
+    dispatch(fetchingLanes(true));
+    // const url = '';
+    // const response = await fetch(url);
+    // const responseBody = await response.json();
+    // dispatch(addLanes(responseBody));
+    dispatch(addLanes(mockResponse.data.lanes));
   } catch (error) {
     console.error(error);
-    dispatch(clearRepos());
+    dispatch(clearLanes());
+  } finally {
+    dispatch(fetchingLanes(false));
   }
 };
